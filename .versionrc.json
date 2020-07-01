@@ -11,6 +11,11 @@
             "hidden": false
         },
         {
+            "type": "feature",
+            "section": "Features",
+            "hidden": false
+        },
+        {
             "type": "fix",
             "section": "Bug Fixes",
             "hidden": false
